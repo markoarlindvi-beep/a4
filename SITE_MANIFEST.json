@@ -1,0 +1,207 @@
+{
+  "domain": "quarterfootie",
+  "niche": "Socks",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "ribbed_organic_cotton_crew.jpg",
+      "size_kb": 56.76,
+      "md5": "266442e7e95321501c336c28b4296fa1",
+      "description": "Fine gauge organic combed cotton crew socks in warm heather grey",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "curated_sartorial_sock_drawer.jpg",
+      "size_kb": 79.55,
+      "md5": "9c7ced0ad5680a9a9c2f6b5257a4838a",
+      "description": "Color-curated sartorial hosiery roll presentation in bespoke cedar valet",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "seamless_toe_linking_macro.jpg",
+      "size_kb": 83.72,
+      "md5": "c3d19522d54fccb42379bd0617ddbff4",
+      "description": "Extreme macro perspective of hand-linked seamless sock toe closure",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "bamboo_fiber_knee_high_socks.jpg",
+      "size_kb": 56.37,
+      "md5": "212ee6c2b34e089a62389b579a6cb87c",
+      "description": "Silky bamboo viscose seamless knee-high hosiery on tailoring model",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "mercer_boutique_hosiery_wall.jpg",
+      "size_kb": 79.45,
+      "md5": "a294418f09c4384fb076837fd00a873a",
+      "description": "Seamless hosiery collections elegantly showcased at 181 Mercer Street salon",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "textured_slub_wool_boot_socks.jpg",
+      "size_kb": 186.78,
+      "md5": "ceceaf6be22a45788db2a9fab73cb43b",
+      "description": "Heavy gauge Japanese slub yarn seamless boot socks folded on linen",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "low_cut_invisible_liner_socks.jpg",
+      "size_kb": 68.25,
+      "md5": "a7fe5271de0cc8fcb4b20632e7f9e162",
+      "description": "Non-slip seamless invisible liner socks with silicone heel grip",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "artisan_steaming_and_boarding.jpg",
+      "size_kb": 225.62,
+      "md5": "21b1b89b8edf80828d1ca12cd569412f",
+      "description": "Thermal sock boarding and hand-pressing form in Italian knitting atelier",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "chunky_wool_bed_socks.jpg",
+      "size_kb": 121.3,
+      "md5": "6cc731196878a996de7d8e209c08f2cb",
+      "description": "Undyed natural British wool sleeping socks in warm fleece texture",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "colorful_mercerized_cotton_pair.jpg",
+      "size_kb": 69.39,
+      "md5": "2b0248646439a69e426d3a207f5bbc5d",
+      "description": "Vibrant crimson and indigo mercerized cotton dress socks paired together",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "seamless_compression_running_socks.jpg",
+      "size_kb": 173.68,
+      "md5": "11718bbb51a0727aa90250351cdcdcd0",
+      "description": "Graduated compression seamless sports socks with targeted arch support",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "botanical_dyed_linen_socks.jpg",
+      "size_kb": 54.25,
+      "md5": "b21c16b9e17429fc33be03d499582f0d",
+      "description": "Natural plant-dyed French flax linen ankle socks in sage and terracotta",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "cozy_home_knit_loungewear.jpg",
+      "size_kb": 145.48,
+      "md5": "d25b7723d6e8090ed2af45858e337e0f",
+      "description": "Cozy wool lounge socks worn in warm Scandinavian interior",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "leather_oxford_sartorial_socks.jpg",
+      "size_kb": 64.6,
+      "md5": "a0cd4b889acf66fe979e49eaf4461a06",
+      "description": "Handmade calfskin oxfords paired with fine mercerized cotton socks",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "minimalist_white_crew_socks.jpg",
+      "size_kb": 60.72,
+      "md5": "922b7633aaa1050d9559bc9ed8399aff",
+      "description": "Classic seamless white combed cotton sports crew socks",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "performance_compression_socks.jpg",
+      "size_kb": 134.94,
+      "md5": "9108b2b0ea2789761d2d480903dc91cb",
+      "description": "Targeted arch band seamless performance socks in modern monochrome",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "chunky_knit_alpaca_yarn.jpg",
+      "size_kb": 51.0,
+      "md5": "c2f437fea269404dc565501ca7c85e6f",
+      "description": "Peruvian baby alpaca fiber yarn spun for luxury winter hosiery",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "cashmere_cable_knit_socks.jpg",
+      "size_kb": 131.13,
+      "md5": "cb0ab15837ac7fc65b4be09772ff75ea",
+      "description": "Artisanal hand-linked cream cashmere cable knit socks resting on wooden surface",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "merino_wool_lounge_socks.jpg",
+      "size_kb": 132.55,
+      "md5": "34d7ea44568d76c84af8db4af5bd1ad7",
+      "description": "Chunky ribbed merino wool seamless socks worn in relaxed fireside setting",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "cashmere_blend_sock_drape.jpg",
+      "size_kb": 164.99,
+      "md5": "5b49223feee65dfc38e68243db111a08",
+      "description": "Soft draping of featherweight 200-needle cashmere silk hosiery",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://quarterfootie.com/sitemap.xml",
+    "robots": "https://quarterfootie.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
